@@ -16,11 +16,14 @@ manually controlled two-wheeler vehicles. It comes with idea to make the
 driving easy in traffic situation and to encourage physically challenged and 
 amputated people to ride bike without any difficult of handling clutch. The 
 actuator used here is DC motor of 45rpm, and quick up-shifting technology was implemented to eliminate the knocking sound in gear box. 
-This system is successfully implemented on an existing manually  
-controlled vehicle for testing.   
-
-
-More details on the report.
+This system is successfully implemented on an existing manually controlled vehicle for testing. The actuators are controlled by a micro controller circuit, this circuit guides the actuators taking into consideration the speed of the vehicle and initial throttle position.   
 
 ## SETUP OF THE WHOLE PROJECT:
+
+![image](https://user-images.githubusercontent.com/82164428/234150392-5ffed92a-a7b8-469c-baa8-877632f31135.png)
+
+
+![image](https://user-images.githubusercontent.com/82164428/234151049-ad53e8c5-ac86-4dbd-a52a-8528da4a7c44.png)
+
+![image](https://user-images.githubusercontent.com/82164428/234150991-f2402c77-c132-4086-bfb8-9136d25056be.png)
 
