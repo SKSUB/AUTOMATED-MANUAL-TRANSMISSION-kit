@@ -15,8 +15,7 @@ automatic or manual. The system is a kit which can be implemented in existing
 manually controlled two-wheeler vehicles. It comes with idea to make the 
 driving easy in traffic situation and to encourage physically challenged and 
 amputated people to ride bike without any difficult of handling clutch. The 
-actuator used here is DC motor of 45rpm, and quick up-shifting technology was implemented to eliminate the knocking sound in gear box.
-
+actuator used here is DC motor of 45rpm, and quick up-shifting technology was implemented to eliminate the knocking sound in gear box. 
 This system is successfully implemented on an existing manually  
 controlled vehicle for testing.   
 
